@@ -1,0 +1,36 @@
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:38
+-keep class com.example.flutteruikit.MainActivity { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:91
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:131
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:68
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:82
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:63
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:78
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:97
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:103
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:117
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:125
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# Referenced at /home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/app/intermediates/manifests/full/release/AndroidManifest.xml:34
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
+

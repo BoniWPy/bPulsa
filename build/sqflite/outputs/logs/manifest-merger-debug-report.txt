@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:4:3-30
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:3:3-26
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:6:3-72
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:6:3-72
+INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:6:3-72
+	android:targetSdkVersion
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:6:40-69
+	android:minSdkVersion
+		ADDED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml:6:13-39
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kszxpo/Development/Native/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/android/src/main/AndroidManifest.xml

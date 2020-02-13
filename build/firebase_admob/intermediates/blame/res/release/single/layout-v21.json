@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d2fadbffa6d4e3a88a085d61fc215fd/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d2fadbffa6d4e3a88a085d61fc215fd/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d2fadbffa6d4e3a88a085d61fc215fd/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kszxpo/AndroidStudioProjects/BPulsaMobileUIKIT/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d2fadbffa6d4e3a88a085d61fc215fd/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
